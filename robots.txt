@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-49lj4e.trans88.biz/sitemap.xml
